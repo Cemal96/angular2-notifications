@@ -6,7 +6,6 @@ example/basic/app/**/**.js
 example/aot
 .idea
 .npmignore
-lib
 tests/testing-utils.d.ts
 tests/testing-utils.js.map
 tests/testing-utils.js

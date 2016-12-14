@@ -1,7 +1,7 @@
-export { SimpleNotificationsModule } from './src/simple-notifications.module';
-export { SimpleNotificationsComponent } from './src/simple-notifications.component';
-export { NotificationComponent } from './src/notification.component';
-export { NotificationsService } from './src/notifications.service';
-export { MaxPipe } from './src/max.pipe';
-export { PushNotificationsModule } from './src/push-notifications.module';
-export { PushNotificationsService } from './src/push-notifications.service';
+export { SimpleNotificationsModule } from './lib/simple-notifications.module';
+export { SimpleNotificationsComponent } from './lib/simple-notifications.component';
+export { NotificationComponent } from './lib/notification.component';
+export { NotificationsService } from './lib/notifications.service';
+export { MaxPipe } from './lib/max.pipe';
+export { PushNotificationsModule } from './lib/push-notifications.module';
+export { PushNotificationsService } from './lib/push-notifications.service';
